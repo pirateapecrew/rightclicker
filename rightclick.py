@@ -25,7 +25,7 @@ OUTPUT_DIR = "collections"
 # Total value of all downloaded NFTs
 usd_total = 0
 
-def download_collection(collection):
+def download_collection(babyelfgoblin):
     assets = None
     page = 0
 
